@@ -1,0 +1,10 @@
+
+@font-face {
+    font-family:'love' ;
+    src: url(love\ story\ ttf.ttf);
+}
+
+body {
+    font-family: 'love', 'Times New Roman', Times, serif;
+
+}
